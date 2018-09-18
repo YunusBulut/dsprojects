@@ -1,3 +1,5 @@
+# Investigating Student Debt
+
 When I married my wife, we started our marriage off with over 50K in debt. Based on various statistics I’ve heard over the years, our debt levels were pretty typical for college graduates. We’ve been fortunate – steady employment and extended, tough sacrifices over the years enabled us to pay it off and enter a debt-free life, but we know that isn’t typical of people in their 20s. 
 This formative experience motivated me to pick up the College Scorecard Dataset from the US Department of Education and see what I can learn about student debt – where it comes from and who’s most likely to graduate with a lot of it.
 
