@@ -10,6 +10,16 @@
 # DRILL: Fix the flaw
 Here is a [link](https://action.donaldjtrump.com/mainstream-media-accountability-survey/) to a Mainstream Media Accountability Survey sent to the public by the Trump Administration in February 2017. Read over the survey and select five questions you believe can be improved. Describe the flaw you see and write an improved version of the question.
 
+3 thru 6: Do you trust \_\_\_\_\_\_\_ to fairly report on your presidency?   
+
+Better written as: Rate your level of trust in the below organizations:
+- NBC (slider 0-100)
+- CNN(slider 0-100)
+- MSNBC(slider 0-100)
+- Fox News(slider 0-100)
+
+__The below rewritten questions could essentially replace  any of the questions 10-15__
+
 13. Do you believe that the media sensationalizes and exaggerates stories in order to paint President Trump and conservatives in a bad light?
 
 Better written as two questions:
